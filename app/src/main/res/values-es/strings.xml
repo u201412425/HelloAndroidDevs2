@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hello Devs</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="main_name_hint">Tu Nombre Aquí</string>
+    <string name="main_skill_level_text">Tu Nivel de Desarrollo</string>
+    <string name="main_welcome_text">"¡Hola Desarrollador para Android! "</string>
+    <string name="main_welcome_no_name">No seas tìmido, escribe tu nombre </string>
+    <string name="main_welcome_with_name">Bienvenido %1$s! Tu habilidad de desarrollo es %2$d.</string>
+    <string name="main_clear_action">Limpiar</string>
+</resources>
